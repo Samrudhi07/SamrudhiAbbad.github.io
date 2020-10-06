@@ -1,0 +1,30 @@
+.card1{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-top: 70px;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 30px;
+}
+.card1-title{
+	text-align: center;
+	background-color: lightblue;
+	padding: 10px;
+	font-style: italic;
+}
+.instruction-list{
+	padding: 10px;
+}
+.container1{
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.button1{
+float: left;
+margin-left: 60px;
+}
+.button2{
+float: right;
+margin-right: 50px;
+}
