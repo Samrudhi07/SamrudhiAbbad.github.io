@@ -1,0 +1,30 @@
+.cont1{
+	background-color: black;
+	margin-top: 80px;
+	padding-top: 30px;
+
+
+}
+.row1{
+	display: flex;
+	justify-content: space-evenly;
+
+}
+button{
+	padding: 11px 0px;
+  padding-right: 130px;
+  border: none;
+  border-bottom: 1px solid rgb(41, 41, 41);
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+}
+.row1 h3{
+	font-size: 15px;
+  color: rgba(61, 61, 61, 0.808);
+  margin-top: 20px;
+  font-weight: 500;
+}
+.textcolor h3{
+	color: white;
+}
